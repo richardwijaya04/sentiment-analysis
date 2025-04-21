@@ -9,7 +9,7 @@ This project focuses on analyzing sentiment from IMDB movie reviews scraped from
 - **Sentiment Classification**: Assign sentiment labels using a lexicon-based approach (VADER Sentiment Analyzer).
 - **Model Training**: Train and evaluate SVM and Logistic Regression models.
 - **Model Comparison**: Compare the performance of the two models using accuracy, confusion matrices, and classification reports.
-- **Visualization**: Provide visual insights through heatmaps and bar plots to illustrate model performance and sentiment distribution.
+- **Visualization**: Provide visual insights through heatmaps and bar plots to illustrate model performance and sentiment distribution .
 
 ## 🛠️ Technologies Used
 - **Python**: Core programming language for data analysis and modeling.
